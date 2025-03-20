@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{E8DA358E-4A85-D76D-4DDE-D98ABA8EF746}",
+	"EngineAssociation": "{E063A9F2-4B91-DA09-73A8-DD9909CCE453}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
